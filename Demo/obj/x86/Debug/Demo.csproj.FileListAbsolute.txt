@@ -1,0 +1,5 @@
+/Users/Elijah/Projects/Demo/Demo/bin/Debug/Demo.exe
+/Users/Elijah/Projects/Demo/Demo/bin/Debug/Demo.pdb
+/Users/Elijah/Projects/Demo/Demo/obj/x86/Debug/Demo.csproj.CoreCompileInputs.cache
+/Users/Elijah/Projects/Demo/Demo/obj/x86/Debug/Demo.exe
+/Users/Elijah/Projects/Demo/Demo/obj/x86/Debug/Demo.pdb
